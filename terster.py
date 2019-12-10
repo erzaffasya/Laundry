@@ -1,3 +1,0 @@
-from laundry import *
-
-cetak()
