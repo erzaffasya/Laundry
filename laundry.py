@@ -75,7 +75,7 @@ while True:
               '\nProses\n'
               '+--------+-----------+\n'
               '| cepat  | +Rp.10000 |\n'
-              '| strika | +Rp.5000 |\n'
+              '| strika | +Rp.5000  |\n'
               '+--------+-----------+\n')
         input("\nTekan enter....")
     elif p=="2":
