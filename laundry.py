@@ -75,7 +75,7 @@ while True:
               '\nProses\n'
               '+--------+-----------+\n'
               '| cepat  | +Rp.10000 |\n'
-              '| strika | +Rp.5000  |\n'
+              '| strika | +Rp.5000 |\n'
               '+--------+-----------+\n')
         input("\nTekan enter....")
     elif p=="2":
@@ -107,7 +107,7 @@ while True:
                 hpkt=hrgs[pakt-1][1]
                 pakt=hrgs[pakt-1][0]
 
-                if   stka== 1:
+                if   stka== 1 or stka == "y":
                     biya=(kilo*6000)+(hpkt*jumh) + 5000
                     stka="Ya"
                 elif stka== 2:
